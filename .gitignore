@@ -1,4 +1,13 @@
-*.log
-*.pot
 *.pyc
+.DS_Store
+
 local_settings.py
+
+/.Python
+/bin
+/include
+/lib
+/src
+/static
+/media
+
